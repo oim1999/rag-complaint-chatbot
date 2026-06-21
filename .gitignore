@@ -14,7 +14,8 @@ env/
 
 data/
 
-# vector_store/
+vector_store/
+vector_store/chroma.sqlite3 
 
 .env
 *.env
